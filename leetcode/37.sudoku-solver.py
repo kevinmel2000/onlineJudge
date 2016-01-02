@@ -21,7 +21,7 @@ class Solution(object):
                 return solveRec(board, pos+1) 
         row = [[False for i in range(9)] for j in range(9)]
         column = [[False for i in range(9)] for j in range(9)]
-        box = [[False for i in range(9)] for j in)]
+        box = [[False for i in range(9)] for j in range(9)]
         for i in range(9):
             for j in range(9):
                 if board[i][j]!='.':
