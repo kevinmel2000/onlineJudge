@@ -1,19 +1,16 @@
 public class Solution {
     public int shortestDistance(String[] words, String word1, String word2) {
-        String cur=null;
-        int curPos=-1;
-        int min = words.length;
+        int idx1 = -1, idx2 = -1;
+        int shortest = Integer.MAX_VALUE;
         for(int i=0;i<words.length;i++) {
-            if(words[i].equals(word1) || words[i].equals(word2)) {
-                if(cur!=null && !words[i].equals(cur)) {
-                    if(min>i-curPos) {
-                        min = i-curPos;
-                    }
-                }
-                curPos = i;
-                cur=words[i];
+            if(words[i].equals(word1)) {
+                if(idx2!=-1 && i-idx2<shortest) shortest = i-idx2;
+                idx1=i;
+            } else if(words[i].equals(word2)) {
+                if(idx1!=-1 && i-idx1<shortest) shortest = i-idx1;
+                idx2=i;
             }
         }
-        return min;
+        return shortest;
     }
 }
