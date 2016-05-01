@@ -2,11 +2,11 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Online Judge
+tagline:             leetcode, lintcode, hackerank
+# url:
 paginate:            1
-baseurl:             ""
+baseurl:             "/onlineJudge"
 
 # Assets
 #
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Del Bao
+  url:               
+  email:             dbao@ncsu.edu
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              
 
 # Gems
 gems:
