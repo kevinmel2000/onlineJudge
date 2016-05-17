@@ -17,4 +17,4 @@ tag: leetcode
 
 google曾经的面试题是这个的简单扩展：如果给定两个数组中的某一个数，找到离这个数第k近的数。直接用binary search找到这个数后确定次序k’，然后用上面的方法找到第(k+k’)th
 
-{% gist 357d7b25c0a087fb276a %}
+{% gist b63284430aaaf66b6aab6a26edb1245b %}
