@@ -21,6 +21,22 @@ author:
   url:               
   email:             dbao@ncsu.edu
 
+#image
+image:
+  source: /images/
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+height: 400
+
 # Custom vars
 version:             2.0.0
 github:
