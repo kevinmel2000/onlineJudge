@@ -7,4 +7,4 @@ tag: leetcode
 
 要点
 
-{% gist 4fcb9591b5283bf3a2b27dba0f545ed9 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 143-reorder-list.py %}
