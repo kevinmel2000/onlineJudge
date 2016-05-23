@@ -7,6 +7,6 @@ tag: leetcode
 
 fast/slow指针的移动方式：
 
-{% gist 1913e23316935c2d46c1afa47e7ffad1 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  141-lindked-list-cycle-1.py %}
 
-{% gist e23807b90b675d95f239c5f7f85d490a %}
+{% gist bf99b99cf26d9a231936748c89f96b69 142-lindked-list-cycle-2.py %}
