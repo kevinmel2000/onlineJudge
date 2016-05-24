@@ -10,4 +10,4 @@ tag: leetcode
  
 这题可以扩展到XOR：如果低位是全域，那么XOR的值为全0
 
-{% gist 93543fd43e4ab2a0af18687af4373f82 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 201 Bitwise AND of Numbers Range.py %}
