@@ -13,5 +13,5 @@ tag: leetcode
 - 需要更新cur的长度，否则如果有duplicate会fail，比如[5,7,6,6]，正确结果是3，但是如果不更新cur的长度，第二个6将+3+3，结果变成7
  
  
- {% gist b7adb2328d1547ff5fdbd9ba97ef34a5 %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 128 Longest Consecutive Sequence.py %}
  
