@@ -15,4 +15,4 @@ tag: leetcode
 - box的坐标如何算：i/3*3+j/3: i/3得到row方向的box序数，再*3表示之前几行有几个box，最后j/3得到同一行3个box的偏移量，曾经错误的用i*3/3+j/3
 - 因为值和index是差1的，所以在loop里一定要用index，只有在赋值的时候+1，这样避免错误
 
-{% gist f132012fc173db9d53c28722c5b31d05 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 37 Sudoku Solver.py %}
