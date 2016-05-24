@@ -18,4 +18,4 @@ tag: leetcode
 - low,m-1和m+1,high不会出现2个元素的infinite loop
 - 这题千万别用randomPartition，没法debug
 
-{% gist b9fd5a9464b0241047962a4d90c41467 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 215 Kth Largest Element in an Array.py %}
