@@ -11,5 +11,5 @@ tag: leetcode
 - 当下层左子树遍历完毕，应该访问本结点并且出栈。因为是inorder，出栈并不代表一直向上，而是要继续向右子树开始新的向下。
 - 这题的画面感有一直向左下=>上升=>继续右下
 
-{% gist 498e69a0a00f6f07885da097d61b1447 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 94 Binary Tree Inorder Traversal.py %}
 
