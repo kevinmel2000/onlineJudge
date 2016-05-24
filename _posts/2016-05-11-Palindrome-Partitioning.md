@@ -11,6 +11,6 @@ dp的要点：dp数组本身还是表示前i个元素的palindrome partitioning�
 - j要从0开始，对于奇数，表示单个字符本身也是palindrome，对于偶数，i是左边第一个字符
 - 因为已经有了单个字符，不要像II（mincut）那样用单个字符初始化dp，这样会重复或者对大sizeTLE
  
- {% gist 13c5f3b9019cdee93982c8148d34c2f2 %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 131-Palindrome Partitioning.py %}
  
- {% gist 93ec55e89dfa7bdfcd300f204b2e724f %}
+ {% gist bf99b99cf26d9a231936748c89f96b69  132-Palindrome Partitioning-II.py %}
