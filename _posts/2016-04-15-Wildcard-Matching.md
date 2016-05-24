@@ -10,4 +10,4 @@ tag: leetcode
  
 - star和ss：star对应的是’*’这点在pattern中的位置，ss对应的是在上次没有swallow的s点的位置。实际上是记录了可以restore的状态
 
-{% gist d62b2231138b161a7b1d77c6bf087627 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 44 Wildcard Matching.py %}
