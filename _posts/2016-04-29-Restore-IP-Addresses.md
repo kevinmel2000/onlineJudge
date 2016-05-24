@@ -17,4 +17,4 @@ tag: leetcode
 - 3位要检查不能超过255
 - 注意长度的计算：n不是最后的index，所以长度为n-start
 
-{% gist 3d3dc76adcd82065b7c2bdc5f06f2d54 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 93 Restore IP Addresses.py %}
