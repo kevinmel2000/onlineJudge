@@ -11,4 +11,4 @@ tag: leetcode
 - python的bisect需要正向sorted的array，所以先reverse再binary search
 - 最后一个permutation的下一个是正向第一个，只做reverse不用交换
 
-{% gist 65b9fcd6ee3ace89649a6cc59c3af4ad %}
+{% gist bf99b99cf26d9a231936748c89f96b69 31 Next Permutation.py %}
