@@ -11,4 +11,4 @@ tag: leetcode
 - visited check时机？最好是在dfs外面，在dfs里面设为true
 - 小错误：grid的值是字符
 
-{% gist 22961072f76f96dacbe0429384536048 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 200 number of islands.py %}
