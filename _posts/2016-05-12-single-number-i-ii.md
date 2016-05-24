@@ -13,6 +13,6 @@ Output:4294967292
  
 Expected:-4
 
-{% gist e4875643390861dd2f588daa83af80b9 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 136-Single-Number-I.py %}
 
-{% gist d7a06498668ec304843b4b3627089349 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  137 Single Number II.py %}
