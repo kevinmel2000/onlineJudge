@@ -14,4 +14,4 @@ python实现中的问题：
  
 - 首先first和second是global的，在python里，nested function可以读enclosing的变量，但是不能update（update就变成对local变量操作）。所以这题把变量弄成class member
  
-{% gist 8249229f907e9db363b237109165f86c %}
+{% gist bf99b99cf26d9a231936748c89f96b69 99 Recover Binary Search Tree.py %}
