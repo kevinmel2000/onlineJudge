@@ -15,4 +15,4 @@ tag: leetcode
     - 结束条件有多个可能：1. root为空，说明对应的字符不存在，返回False，2. i==len(word): code里这个判断在1.之后，所以root是不为null的，然后判断root.isLeaf
     - startsWith的code是类似的，除了不用判断isLeaf
  
- {% gist 9ba8aac8c6d1ef070ace99f3311834af %} 
+ {% gist bf99b99cf26d9a231936748c89f96b69 208 Implement Trie.py %} 
