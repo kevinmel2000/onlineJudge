@@ -22,4 +22,4 @@ base condition: p向右移动
 扩展:
 yelp的面经上见过,
  
-{% gist d284d49da1309ae01d9a9d811d62cb59 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 10 Regular Expression Matching.py %}
