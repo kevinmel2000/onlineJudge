@@ -14,6 +14,6 @@ tag: leetcode
 google还考过扩展：减字符找最长路径。意思是一样的。
  
 
-{% gist 28ea729f90e392554f1abee1779aa09c %}
+{% gist bf99b99cf26d9a231936748c89f96b69  127 Word Ladder I.py %}
 
-{% gist 901230df47fbe3004987c5135a585dbd %}
+{% gist bf99b99cf26d9a231936748c89f96b69 126 Word Ladder II.py %}
