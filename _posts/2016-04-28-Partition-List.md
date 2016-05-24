@@ -12,4 +12,4 @@ tag: leetcode
 - cur的初始点为dummy，而不是head
 - 别忘了交换结点之后lasat指针的移动
 
-{% gist 59a2aa6f1466aea96270a692f81c8bee %}
+{% gist bf99b99cf26d9a231936748c89f96b69 86 Partition List.py %}
