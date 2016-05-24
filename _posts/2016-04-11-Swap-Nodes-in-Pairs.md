@@ -5,4 +5,4 @@ title: Swap Nodes in Pairs
 tag: leetcode
 ---
 
-{% gist cb22780c826e5934818723f407d2036a %}
+{% gist bf99b99cf26d9a231936748c89f96b69 24 Swap Nodes in Pairs.py %}
