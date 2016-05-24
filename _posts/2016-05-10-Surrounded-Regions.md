@@ -13,4 +13,4 @@ tag: leetcode
 dfs对大size会有Runtime Error：stack overflow了，因为dfs最坏深度可能是整个矩阵的size。所以只能用bfs
 
 
-{% gist 05b14c5851d4ccc86959bd467a48cd21 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 130 Surrounded Regions.py %}
