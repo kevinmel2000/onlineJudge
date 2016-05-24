@@ -12,6 +12,6 @@ while root:
 I的连接范围局限在root，所以比较简单（只需要root.left连root.right，然后root.right连root.next的left）。而II因为不确定性，本质就是更新prev和next (初始为null)：next用来track头，prev用来track前一个。
  
  
-{% gist e6c7e84168cb6ff74ff121a7479c00f8 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  116 Populating Next Right Pointers in Each Node.py %}
 
-{% gist 64d208b13b9af8662932ca2cfb1b97fe %}
+{% gist bf99b99cf26d9a231936748c89f96b69 117 Populating Next Right Pointers in Each Node II.py %}
