@@ -12,4 +12,4 @@ tag: leetcode
     - 判断是否是顺序的时候，如果只有2个元素，mid和low会是同一个元素，这时可能仍要继续判断：比如[3,1],1
     - 判断target的时候，target可能和low或者high的元素相等
  
- {% gist 37a58404ffad8ccdbd4d2e88af2c8d3b %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 81 Search in Rotated Sorted Array.py %}
