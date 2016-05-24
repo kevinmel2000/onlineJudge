@@ -10,4 +10,4 @@ tag: leetcode
 - 不能swap，而是要只把后面的元素取代前面的。swap将破坏nums[i]!=nums[i-1] check
 - [ ] 要特殊处理，返回0。因为。。。
 
-{% gist fd94dadf500290614a899674034f785f %}
+{% gist bf99b99cf26d9a231936748c89f96b69 80 Remove Duplicates from Sorted Array II.py %}
