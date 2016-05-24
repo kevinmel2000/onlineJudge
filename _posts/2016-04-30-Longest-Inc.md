@@ -7,4 +7,4 @@ tag: leetcode
 
 要点：
 
-{% gist b5168f820aff3ba51d57791d6b924f21 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 300 Longest Increasing Subsequence.py %}
