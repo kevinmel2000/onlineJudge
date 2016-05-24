@@ -16,4 +16,4 @@ tag: leetcode
 - word的index和board的index是分开的，起始点word总是0，而board是i,j循环变量
 - 如果用1d index，算法会很慢
 
-{% gist 50bb572a27f18f8d706b2170fbb1d4a2 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 79 Word Search.py %}
