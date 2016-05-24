@@ -10,4 +10,4 @@ tag: leetcode
  
 - next要append
 
-{% gist 1db3660aeeaaed9986d4fd4f549a9620 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 38 Count and Say.py %}
