@@ -14,4 +14,4 @@ tag: leetcode
  
 - s1的index为i-1，s2的index为j-1，那么对应的s3中的index为i+j-1，而不是i+j-2
 
-{% gist 1dea784784edcb49f635c0718f0b70bd %}
+{% gist bf99b99cf26d9a231936748c89f96b69 97 Interleaving String.py %}
