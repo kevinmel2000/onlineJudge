@@ -10,4 +10,4 @@ tag: leetcode
 - 每次访问完左子树，这时候的head指向的是当前的root。这时再移动链表指针。
 - 因为python是pass-by-value，而recursion的返回值为子树的root，所以只能用global variable表示当前指针（如果c++可以用pass-by-reference update链表指针）
  
- {% gist 3587277e10c7683266a858ac821815dd %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 109 Convert Sorted List to Binary Search Tree.py %}
