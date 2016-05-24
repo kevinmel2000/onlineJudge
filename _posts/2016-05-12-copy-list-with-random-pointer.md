@@ -12,4 +12,4 @@ tag: leetcode
 - 特殊情况：因为被copy结点的next是null，不能连接其下下个结点。所以最后一个copy.next是no-op即可
  
 
-{% gist 9a66bbb9a56f3146eaaadfddaa74e55b %}
+{% gist bf99b99cf26d9a231936748c89f96b69 138-copy-list-with-random-pointer.py %}
