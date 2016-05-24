@@ -9,4 +9,4 @@ tag: leetcode
  
 - 遇到’)’后pop()的
 
-{% gist 354256e143665255f97941abbf987754 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 32 Longest Valid Parentheses.py %}
