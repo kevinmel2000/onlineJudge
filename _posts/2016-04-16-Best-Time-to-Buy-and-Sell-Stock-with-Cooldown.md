@@ -11,4 +11,4 @@ tag: leetcode
 - 注意buy和sell的初始化：buy[1]是前两个哪个prices点低
 - buy可以为负，sell最小为0。最后返回的就是sell[n-1]
  
- {% gist 4c65087a806311416d04eba2c4462d0a %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 309 Best Time to Buy and Sell Stock with Cooldown.py %}
