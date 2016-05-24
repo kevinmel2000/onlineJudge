@@ -13,6 +13,6 @@ tag: leetcode
  
 II用递归做的。递归里，root不为None，而且在外层更新sum，内层只是中止条件判断（sum为0，左右为空）
 
-{% gist 93ed35454680d020a0634e74e0375ca1 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  112 Path Sum I.py %}
 
-{% gist 052432ec3ebead24af619afa5d2eff67 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  113 Path Sum II.py %}
