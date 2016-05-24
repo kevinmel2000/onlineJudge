@@ -12,5 +12,5 @@ tag: leetcode
 - 先递增入栈 => 一个低的卡在那，先出栈作为高度，然后栈头作为left => 卡在那的知道又递增了再入栈
 - 最后以n做右边界重复上面低的卡在那的逻辑
 
-{% gist f7fd2a5d274c9d67f83bb72cf881a0bd %}
+{% gist bf99b99cf26d9a231936748c89f96b69  84 Largest Rectangle in Histogram.py %}
 
