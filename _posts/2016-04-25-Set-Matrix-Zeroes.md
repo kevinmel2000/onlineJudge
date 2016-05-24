@@ -13,4 +13,4 @@ tag: leetcode
 - 而记录的时候包括（因为第一行的0也会reset列，对列同样）
 - 因为要分三步走，行列一定别弄混
 
-{% gist 91c02b3446ac6db675bfe3a0b6a932c4 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 73 Set Matrix Zeroes.py %}
