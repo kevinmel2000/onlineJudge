@@ -17,6 +17,6 @@ tag: leetcode
  
 - 一个非常tricky的错误是对邻接点先检查visited，然后检查是否在recStk。实际上如果有环，肯定另一端已经visited了，这样不会返回false，正确的方法应该先检查是否在recStk里
  
- {% gist b51fee29941308c18d3e4723fdb13251 %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 207 Course Schedule.py %}
  
- {% gist 1dcb4893d6177e4a00fe46c2081bfd2c %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 210 Course Schedule II.py %}
