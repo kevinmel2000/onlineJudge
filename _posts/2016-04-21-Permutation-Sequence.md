@@ -11,4 +11,4 @@ tag: leetcode
 - 不同于decimal，位数是固定的，所以不能用k>0作为循环条件（这样只会选择某几位），而是用for循环。
 - 当i=0的时候，要选取最后一个位，但factorial不能再除了i了，所以这里要加corner的判断
 
-{% gist 3c8d5cacaba92d07a3e1a3a5e4a2ceff %}
+{% gist bf99b99cf26d9a231936748c89f96b69 60 Permutation Sequence.py %}
