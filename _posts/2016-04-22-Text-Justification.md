@@ -13,4 +13,4 @@ corner cases以及解法or错误点
 - space和bonus：因为空格的长度是随着单词个数变动，用space和bonus来动态分配，公式见code
 - 最后一行要补空格，在python中因为每行用list表示string，所以还要记录行长
 
-{% gist f4e8c81a082e1cfe622886eaaa3009f2 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 68 Text Justification.py %}
