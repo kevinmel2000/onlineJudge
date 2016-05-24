@@ -15,4 +15,4 @@ tag: leetcode
  
 - 因为上层要重新计算和，update不在范围内要返回当前Node的val，而不是0。
 
-{% gist f5c017e27651abd3bebef4e0a9b05d8e %}
+{% gist bf99b99cf26d9a231936748c89f96b69 307 Range Sum Query - Mutable.py %}
