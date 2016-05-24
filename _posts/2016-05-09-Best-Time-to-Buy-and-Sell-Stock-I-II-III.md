@@ -10,8 +10,8 @@ IV是k的解，可以特殊化到2的。有趣的问题是III的左右两遍扫�
 还有一个细节就是在当天是可以同时买卖的，这样在计算2次交易profit的时候（III），是左右同一天的profit加和。而IV，local也是用的前一天的卖的情况（所以前一天可以再买回来今天再卖）
  
  
-{% gist 676eb47a47c0ab74f5c375bd744b7936  %}
+{% gist bf99b99cf26d9a231936748c89f96b69 121 Best Time to Buy and Sell Stock I.py %}
  
-{% gist 69e4c1e1f734755aa82a7727320e59dc  %}
+{% gist bf99b99cf26d9a231936748c89f96b69 122 Best Time to Buy and Sell Stock II.py %}
 
-{% gist 69dc800c04d8a2fa3914b0b9cd2966e7 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  123 Best Time to Buy and Sell Stock III.py %}
