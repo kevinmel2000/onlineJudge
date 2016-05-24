@@ -11,4 +11,4 @@ tag: leetcode
 - 剪枝2：两个string相同，直接返回True
 - 剪枝3：两个string排序，不相同返回False
 
-{% gist 2e022488549662d0400d443c55b839d7 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  87 Scramble String.py %}
