@@ -9,4 +9,4 @@ tag: leetcode
  
 - loop中什么时候加入set？check之后update：loop invariant==check，加入set==update。所以一定要在loop中首先加入set
 
-{% gist 36e605a6bdeacc063f6b02dccf80b9d5 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 202 happy number.py %}
