@@ -10,4 +10,4 @@ tag: leetcode
  
 - pre在有重复的情况下要next设为None，否则最后一组重复点还会连着
 
-{% gist e6071154e048470290d2a60f045bb5a0 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 82 Remove Duplicates from Sorted List II.py %}
