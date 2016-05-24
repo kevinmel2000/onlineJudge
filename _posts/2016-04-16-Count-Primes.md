@@ -11,5 +11,5 @@ tag: leetcode
 - 外层loop只需要到sqrt(n-1)，因为质因子都是对称的。另外用x*x<n做invariant而不要直接和x<sqrt(n-1)比较
 - count要在另一个loop里
 
-{% gist 2d68321676cfe1537ffac5bfa12acff7 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 204 Count Primes.py %}
 
