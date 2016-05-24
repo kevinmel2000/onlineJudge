@@ -11,4 +11,4 @@ tag: leetcode
 - 当找到一个匹配后，不需要移动start来重置。因为这时候founds里面全等于patterns，下一个word将会根据情况重置start
 - inner while loop：在检查当前word的时候，inner loop的条件是founds[cw]==patterns[cw]。注意==的条件，因为当前word还没有加入，需要去掉至少一个cw（同时还有所有左边从start开始的其他words)。另外不可能founds里的个数>patterns。当然最终因为founds[cw]<patterns[cw]，需要在loop外面+1
  
- {% gist 8546a15106ce23552f847c9a5133f9af %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 30 Substring with Concatenation of All Words.py %}
