@@ -13,4 +13,4 @@ tag: leetcode
 - dot：exp和dot有一点不同，前者必须在num里，后者不用
 - 再次出现’+’/‘-’：不一定是第二次，意思是在main loop里num之后，那么左边必须为exp
 
-{% gist 8aa1e5a1186dbb4e991154dde3f6d146 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 65 Valid Number.py %}
