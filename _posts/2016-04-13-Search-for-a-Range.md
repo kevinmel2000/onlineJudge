@@ -13,4 +13,4 @@ tag: leetcode
  
 对于range这题，value不存在的corner cases还是比较复杂。首先，bounded binary search选择’>’ or ‘<‘，而不是’>=’ or ‘<=‘。这是因为如果>=，返回的左右边界不能用一个条件来判断是否是target的边界。另外，target超过左右边界元素的任意一个，都返回[-1,-1]。另一种情况是target就在边界上，这个corner case是在binary search里面处理，返回-1 or len(nums)，这样在主函数里就可以用同一个公式判断target是否存在。
 
-{% gist 9f23c9b2bdc399e1c7aea1a104b15347 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 34 Search for a Range.py %}
