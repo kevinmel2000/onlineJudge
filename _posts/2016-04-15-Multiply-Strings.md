@@ -10,4 +10,4 @@ tag: leetcode
  
 - j是下位乘数的index，因为有进位，所以j要超出0，要更新j-=1
 
-{% gist bb6540c3f853947aee7ffcf4b147c89a %}
+{% gist bf99b99cf26d9a231936748c89f96b69 43 Multiply Strings.py %}
