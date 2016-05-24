@@ -10,4 +10,4 @@ tag: leetcode
 - 不需要indegree，因为无向图入度和出度是相同的，所以邻接点的个数就能表示。下一层某结点只需要从adjSet中删除当前层结点即可
 - 因为至少有degree 1，所以要这个是下一层的选择条件
 
-{% gist 62f0ce35be1b3f7f48e7ff9b70c32ff2 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 310 Minimum Height Trees.py %}
