@@ -11,4 +11,4 @@ tag: leetcode
 - 值的有效范围是1到len(nums)，所以如果全有，返回len(nums)+1
 - 注意下标的范围是0到len(nums)-1，所以在对应下标和值时要做范围检查。
  
- {% gist 52b3e7b2cf16c039878003fb0d1d6345 %}
+ {% gist bf99b99cf26d9a231936748c89f96b69 41 First Missing Positive.py %}
