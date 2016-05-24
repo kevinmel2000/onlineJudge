@@ -18,6 +18,6 @@ I: dp
 - 因为有null可能为左/右子树，所以dp的长度为n+1
 - 左右子树结点个数的计算：i即表示结点个数，也表示以1初始的子树index，所以可以通过index计算其左右子树个数（这个是这题最不容易记住的地方，因为通常都是index比个数小1）
 
-{% gist 3aa35a39419c1aecc36a5c3d0ceaa360 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  96 Unique Binary Search Trees.py %}
 
-{% gist 1f85ff13a54ab0965b6ecf7a4202bce3 %}
+{% gist bf99b99cf26d9a231936748c89f96b69  95 Unique Binary Search Trees II.py %}
