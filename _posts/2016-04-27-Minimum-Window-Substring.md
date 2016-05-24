@@ -12,4 +12,4 @@ Substring with Concatenation of All Words这题sliding window是固定的，所�
 - pattern和found别搞混，这里很容易typo
 - 因为只有match的情况才更新minLen，所以对不match要特殊处理
 
-{% gist ba2881051822dd3f21ed1877fedbc28f %}
+{% gist bf99b99cf26d9a231936748c89f96b69 76 Minimum Window Substring.py %}
