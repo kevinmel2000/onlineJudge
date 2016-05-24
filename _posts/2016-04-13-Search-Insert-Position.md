@@ -5,4 +5,4 @@ title: Search Insert Position
 tag: leetcode
 ---
 
-{% gist 6ea3343825b12fd4bdac7b0bc60eea82 %}
+{% gist bf99b99cf26d9a231936748c89f96b69 35 Search Insert Position.py %}
